@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="https://venta.renfe.com/" />
+<title>test-3</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">test-3</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/vol/inicioCompra.do</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=IdOrigen</td>
+	<td>A Coruña</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=IdDestino</td>
+	<td>Madrir</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=img.ui-datepicker-trigger</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=7</td>
+	<td></td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=HoraIdaSel</td>
+	<td>label=09:00</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=#divFechaVuelta &gt; img.ui-datepicker-trigger</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=10</td>
+	<td></td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=HoraVueltaSel</td>
+	<td>label=07:00</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=adultos_</td>
+	<td>label=1</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=ninosMenores</td>
+	<td>label=4</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=opc_comprar</td>
+	<td></td>
+</tr>
+<tr>
+	<td>selectWindow</td>
+	<td>null</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>id=error_fondo</td>
+	<td>El número de niños menores de 4 años no puede ser superior al resto de viajeros de la operación. Si desea viajar con más niños menores de 4 años, podrán hacerlo como niño 4-13 con su descuento del 40%.</td>
+</tr>
+</tbody></table>
+</body>
+</html>
