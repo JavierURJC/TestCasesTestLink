@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+	<testplan>
+		<name><![CDATA[TestPlan]]></name>
+		
+		
+<executables>
+	<link>
+		<platform>
+			<name><![CDATA[]]></name>
+		</platform>
+		<testcase>
+			<name><![CDATA[test billetes disponibles 1]]></name>
+			<externalid><![CDATA[2]]></externalid>
+			<version><![CDATA[1]]></version>
+			<execution_order><![CDATA[1]]></execution_order>
+		</testcase>
+</link>
+
+	<link>
+		<platform>
+			<name><![CDATA[]]></name>
+		</platform>
+		<testcase>
+			<name><![CDATA[test Codigo Promocion 2]]></name>
+			<externalid><![CDATA[3]]></externalid>
+			<version><![CDATA[1]]></version>
+			<execution_order><![CDATA[1]]></execution_order>
+		</testcase>
+</link>
+
+	<link>
+		<platform>
+			<name><![CDATA[]]></name>
+		</platform>
+		<testcase>
+			<name><![CDATA[test nº niños > nº adultos + niños 3]]></name>
+			<externalid><![CDATA[5]]></externalid>
+			<version><![CDATA[1]]></version>
+			<execution_order><![CDATA[1]]></execution_order>
+		</testcase>
+</link>
+
+	<link>
+		<platform>
+			<name><![CDATA[]]></name>
+		</platform>
+		<testcase>
+			<name><![CDATA[test nº de billetes > 9 4]]></name>
+			<externalid><![CDATA[6]]></externalid>
+			<version><![CDATA[1]]></version>
+			<execution_order><![CDATA[1]]></execution_order>
+		</testcase>
+</link>
+
+	<link>
+		<platform>
+			<name><![CDATA[]]></name>
+		</platform>
+		<testcase>
+			<name><![CDATA[test nº de billetes < 0 5]]></name>
+			<externalid><![CDATA[7]]></externalid>
+			<version><![CDATA[1]]></version>
+			<execution_order><![CDATA[1]]></execution_order>
+		</testcase>
+</link>
+
+	<link>
+		<platform>
+			<name><![CDATA[]]></name>
+		</platform>
+		<testcase>
+			<name><![CDATA[test descuento estudiantes 16]]></name>
+			<externalid><![CDATA[1]]></externalid>
+			<version><![CDATA[1]]></version>
+			<execution_order><![CDATA[1]]></execution_order>
+		</testcase>
+</link>
+
+	<link>
+		<platform>
+			<name><![CDATA[]]></name>
+		</platform>
+		<testcase>
+			<name><![CDATA[test descuento tarjeta dorada 17]]></name>
+			<externalid><![CDATA[4]]></externalid>
+			<version><![CDATA[1]]></version>
+			<execution_order><![CDATA[1]]></execution_order>
+		</testcase>
+</link>
+
+	<link>
+		<platform>
+			<name><![CDATA[]]></name>
+		</platform>
+		<testcase>
+			<name><![CDATA[test billete solo ida 18]]></name>
+			<externalid><![CDATA[8]]></externalid>
+			<version><![CDATA[1]]></version>
+			<execution_order><![CDATA[1]]></execution_order>
+		</testcase>
+</link>
+
+	<link>
+		<platform>
+			<name><![CDATA[]]></name>
+		</platform>
+		<testcase>
+			<name><![CDATA[login incorrecto]]></name>
+			<externalid><![CDATA[11]]></externalid>
+			<version><![CDATA[1]]></version>
+			<execution_order><![CDATA[1]]></execution_order>
+		</testcase>
+</link>
+
+	<link>
+		<platform>
+			<name><![CDATA[]]></name>
+		</platform>
+		<testcase>
+			<name><![CDATA[login correcto 20]]></name>
+			<externalid><![CDATA[13]]></externalid>
+			<version><![CDATA[1]]></version>
+			<execution_order><![CDATA[1]]></execution_order>
+		</testcase>
+</link>
+
+	<link>
+		<platform>
+			<name><![CDATA[]]></name>
+		</platform>
+		<testcase>
+			<name><![CDATA[test destino no válido 9]]></name>
+			<externalid><![CDATA[16]]></externalid>
+			<version><![CDATA[1]]></version>
+			<execution_order><![CDATA[1]]></execution_order>
+		</testcase>
+</link>
+
+	<link>
+		<platform>
+			<name><![CDATA[]]></name>
+		</platform>
+		<testcase>
+			<name><![CDATA[test fecha de salida menor que fecha actual 8]]></name>
+			<externalid><![CDATA[14]]></externalid>
+			<version><![CDATA[1]]></version>
+			<execution_order><![CDATA[1]]></execution_order>
+		</testcase>
+</link>
+
+	<link>
+		<platform>
+			<name><![CDATA[]]></name>
+		</platform>
+		<testcase>
+			<name><![CDATA[test hora de salida menor que hora actual 7]]></name>
+			<externalid><![CDATA[10]]></externalid>
+			<version><![CDATA[1]]></version>
+			<execution_order><![CDATA[1]]></execution_order>
+		</testcase>
+</link>
+
+	<link>
+		<platform>
+			<name><![CDATA[]]></name>
+		</platform>
+		<testcase>
+			<name><![CDATA[test fecha de regreso menor que fecha salida 6]]></name>
+			<externalid><![CDATA[9]]></externalid>
+			<version><![CDATA[1]]></version>
+			<execution_order><![CDATA[1]]></execution_order>
+		</testcase>
+</link>
+
+</executables>
+
+	</testplan>
