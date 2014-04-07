@@ -16,7 +16,7 @@
 	<td>/vol/login.do</td>
 	<td></td>
 </tr>
-<tr>
+<tr> 
 	<td>type</td>
 	<td>id=txtoUsuario</td>
 	<td>david</td>
