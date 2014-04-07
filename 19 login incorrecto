@@ -21,7 +21,7 @@
 	<td>id=txtoUsuario</td>
 	<td>KAVILA</td>
 </tr>
-<tr>
+<tr> 
 	<td>type</td>
 	<td>id=txtoPass</td>
 	<td>FJFJFJFJF</td>
